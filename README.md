@@ -5,9 +5,13 @@ Ok, as you may know downloading random files isn't a smart thing to do as you ca
 
 If you downlaod a file you dont fully trust, you should do what i usually do. I download the Sysinternal Suite and specifically go after the [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) tool, i would run ProcExp64.exe as Admin depending on if you got 64/32bit depends but anyways, after running it as admin, i would click Options->VirusTotal.com->Check VirusTotal.com, click accept EULA etc so i can enable VirusTotal scans, any process which hash matches a hash that was flagged for bing malware, those Antiviruses will return a report, this will generate an out-of where the Malware would have a tag in the format NoAV'sDetected/AllScannedAV's.
 
+![ProcessExplorer](https://news-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2014/01/process-explorer-virustotal.png)
+
 Anything which was red in ProcessExplorer was flagged for having malware, some may be false positives such as if only like 5 engines detected it and its an old tool which you trust. If the file is 100% a virus and didnt popup as a virus well lemme tell you what that means:
 
 Someone crafted a FUD(Fully UnDetectable) malware which is fresh out of production and you have it, you ran it but nothing seems to happen it just hides, you popup ProcessExporer and it says nothing on it, what yado? well, you manually upload the malware on VirusTotal and you lockup that file is a zip or something, you clean out ur pc with AV'S, malwarebytes, ADWCleaner, superantispyware, hitmanpro etc. The file is still running you simply boot into safe mode and kill it and eradicate its existance except for that locked file.
+
+![HitmanPro](https://www.bleepstatic.com/download/screenshots/h/hitmanpro/scan-results.jpg)
 
 you should be safe but you not cuz ur on windows because Microsoft.
 
