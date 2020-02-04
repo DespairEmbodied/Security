@@ -11,7 +11,7 @@ Someone crafted a FUD(Fully UnDetectable) malware which is fresh out of producti
 
 you should be safe but you not cuz ur on windows because Microsoft.
 
-Assuming your computer is clean, you unlock that file to upload it to https://any.run so basically what have you done?
+Assuming your computer is clean, you unlock that file to upload it to [link to any.run!](https://any.run) so basically what have you done?
 you've essentially publicly distributed the 'hackers' malware to a bucket load of free Malware Analysers who will disect, debug, analyse, decompile and generate source codes on that malware and upload it for everyone to learn. The analysers will then say its a malware and now EVERY SINGLE AV on the block will have it in its defenition in like a weeks time or so!!! which means if you do a rescan on that file, its no longer hidden also its encryption patterns will be learned and added to AV's which means if they simply generate another, that also would instatly be detected.
 
 Why go through the effort? someone vulnerable may have a AV which was updated with your newly added malware in it, their AV protected them because of you and now they are safe which means they can keep their money and banking information and password and secrets and photos and ...
